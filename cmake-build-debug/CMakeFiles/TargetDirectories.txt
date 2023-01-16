@@ -1,0 +1,3 @@
+F:/projects/clion/mgm-redux/cmake-build-debug/CMakeFiles/mgm_redux.dir
+F:/projects/clion/mgm-redux/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/projects/clion/mgm-redux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
