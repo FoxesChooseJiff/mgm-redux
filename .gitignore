@@ -1,0 +1,6 @@
+cmake-build-*
+*.obj
+*.exe
+*.dll
+*.sym
+*.log
